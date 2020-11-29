@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:33:24.196Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.1" etag="gifzXu8JgR0igeRGFiLR" type="github"><diagram id="tpv55C-0w3iaEGww_xRZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T12:41:29.106Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4Trja8qfYTqeqBfqL0f1" version="13.10.1" type="github">
+  <diagram id="tpv55C-0w3iaEGww_xRZ" name="第 1 页">
+    <mxGraphModel dx="946" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="258" y="101" width="88.2" height="178.8" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="62" y="146" width="88.2" height="114.6" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="185.3" width="61" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--4" value="注册组件库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="174" width="64" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_EoR.svg;" vertex="1" parent="1">
+          <mxGeometry x="261" y="363" width="85.8" height="173.4" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--8" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.9" y="287" width="36" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--9" value="组件筛选" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="308" width="59" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="435" width="61" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--12" value="组件渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="415" width="61.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--14" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;" vertex="1" parent="1">
+          <mxGeometry x="495" y="407" width="142.11" height="108" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
