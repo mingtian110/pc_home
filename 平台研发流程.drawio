@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:52:32.826Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="spFrtBVSTxV_F4iFEwJS" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T12:59:49.785Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JikG_quzsGMaAxWbnpaR" version="13.10.1" type="github">
   <diagram id="tpv55C-0w3iaEGww_xRZ" name="第 1 页">
     <mxGraphModel dx="946" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="uhtGQ1a7Ukxr5xWhjsB--28" value="应用生命周期管理:从创建,启动,停止" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="711" width="238.9" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--29" value="以前做的都是半成品 现在是成品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="22" y="675" width="190" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
