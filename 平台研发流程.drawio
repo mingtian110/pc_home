@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:41:29.106Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4Trja8qfYTqeqBfqL0f1" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T12:43:02.423Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="KQYJ9aebLwyVkw63iVA4" version="13.10.1" type="github">
   <diagram id="tpv55C-0w3iaEGww_xRZ" name="第 1 页">
     <mxGraphModel dx="946" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,17 @@
         <mxCell id="uhtGQ1a7Ukxr5xWhjsB--12" value="组件渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="415" width="61.5" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--14" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;" vertex="1" parent="1">
-          <mxGeometry x="495" y="407" width="142.11" height="108" as="geometry" />
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="485" y="388" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--18" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="529" width="36" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--19" value="组件打包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="546" width="59" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="uhtGQ1a7Ukxr5xWhjsB--21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe_host.svg;" vertex="1" parent="1">
+          <mxGeometry x="509" y="613" width="103.68" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
