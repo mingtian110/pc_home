@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:57:32.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nnC0TEyV74Tz21Vdvren" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T14:31:21.311Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FDCKrqIWByTDrUZwploG" version="13.10.1" type="github">
   <diagram id="oc_bYArxrpslI7ygwvXh" name="第 1 页">
     <mxGraphModel dx="946" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="144" width="86.91" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="410.90999999999997" y="144" width="86.91" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="577.8199999999999" y="144" width="86.91" height="169" as="geometry" />
         </mxCell>
         <mxCell id="ZxF2GlQT34UtoXjDBlc1-7" value="根据一个信息查询这个应用所有的配置&lt;br&gt;然后在去查询应用在其他环境的所有配置信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="81" y="47" width="253" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-8" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-8" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="77.09" y="144" width="86.91" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-10" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-10" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="171" width="15" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="231" width="16" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="219" width="44" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="221" width="44" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ZxF2GlQT34UtoXjDBlc1-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxF2GlQT34UtoXjDBlc1-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="221" width="44" height="15" as="geometry" />
         </mxCell>
       </root>
