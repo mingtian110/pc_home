@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T14:23:03.746Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="K2JvjmHbsc3mRccbAWZF" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T14:24:00.315Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="d0bS7bgXZAXHyLGpzgPS" version="13.10.1" type="github">
   <diagram id="3YizE1NmRUBRxTcdSk0L" name="第 1 页">
-    <mxGraphModel dx="1113" dy="1829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D5E8D4" math="0" shadow="1">
+    <mxGraphModel dx="946" dy="1730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D5E8D4" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="1Kbe6kFRLFThT_0jCIPD-2" value="支付,退款" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="383.5" y="-38" width="122" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Kbe6kFRLFThT_0jCIPD-3" value="售后" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="1Kbe6kFRLFThT_0jCIPD-3" value="售后" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="-38" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Kbe6kFRLFThT_0jCIPD-4" value="商品偏下层&lt;br&gt;和人相关的在上层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
