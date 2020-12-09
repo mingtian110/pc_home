@@ -1,1 +1,196 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:11:35.461Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DNvfXJq04HMvWZjujH3y" version="13.10.9" type="github"><diagram id="E3m-XeIQVQSN0iLPFJ0V" name="第 1 页">7Vxbj5s4FP41fqzExVz8CBmylapKlUar7SsNbkKXhClhJpn99XvMLcF2woQZYGrmJXIO9sH487n4fCTIXGyPf2Xhw+ZrGtEEGVp0ROYdMgyCbfhkgudSYNl6KVhncVSKzgT38X+0EmqV9DGO6L7VMU/TJI8f2sJVutvRVd6ShVmWHtrdfqZJ+64P4ZoKgvtVmIjSf+Io35RS13BO8s80Xm/qO+s2Ka9sw7pz9ST7TRilhzORGSBzkaVpXra2xwVN2NrV61KOW1642kwso7v8JQOeg9+/yFP05fvf6Ze9uT6usf37k1lqeQqTx+qBq8nmz/UK0F3ksYWEb6sk3O/jFTL9Tb5NQKBDsxxAI2EdTxPTm8eFbULTLc2zZ+hyOC2oVS3S5mwta1lGkzCPn9rqwwrXdaOuucO3NIYbG1q1Be1KTbUBDUdra9inj9mKVoPO14/TY5EORXmYrWkuKILG2VOfRAU8N0CFb4Jql+7on4WTbrTX19R6AqU7HFDWuEBZigPV6HktUM3AiYCyFQfKtPHbAIV1PClQjgCUpWnbvYBWTo95G6J9nqX/0kWapNkJwp9xknCiMInXOxbhADkKcv+JZnkMaYBXXdjGUcRu4x82cU7vH8IVu+cBch6QZenjLqLsCbRmWzAF9HjrxqgGuJxhmNX3s32DJfvG0C5vkRYmtwLgzg2AJv98LwjU85kPBKb53iAwxHgR2IgskHuHAgu5HvJ0JnGXCHLFACM/QMQv+tjIJyhwkRcwYeAg/w7augYeGaT+sugHKizkWeyyC2NwNdID7QSBS/D9ojMohZWzEwbzjwxaa9aST8WH2bjFKFzM4OJUjAtTIYiQQin0A6WObCqq7kCdcwK6ZAc2rvp8C+LBtuBt57U/L2XB7hvllhbvPUZOWXTxuKa4v8bWe/PXquf3/EEM6z2NpfNEN7SxiAl+RxztEzEXVwOiVXRzCp1wVZPpdBDxkIuLYOgjYhaXAhZ2lbVqYWsYolXrMrO2BzNr8TCillnzMRD3PrZ3BdOhzZpIzfpKTsqbtVt0too+Dmu/KB9dyKxZHDhDa7a0F1izfWVrv7k11xOYEQNh8a6xLwMhKBrYnusnV9bz8hREs+CvpSAs/kQ4NFKSUoVSSPFpSW+keA5idKRUP9HzJERvpHgSYnSkZnei59JHS5IsjHqgN0RmVXEEeBpiegjEmoriEPA0xPQQyIslr6AhLtX+J6AhLjEiHzTEWT0AiztwXBrCmFsJpnfSwtMQoyctYglGcX/N0xCT++t6ByhrLPxZzOlbr+w81A1sLKakvvFRr3xP7IOti8Y8Lvtgql5Z4UOf3fu83hVDh7ZmSWVlEFKxHIjZQBhOghuZw0UxmTs2hAkhI152EZWgxKhUweOIrqKkOmECzAPBp1vn46VrKSdMqkueJ5kVu+SxKSnrWngqROpaRqVCzNve8FeBCnHdvnk16VA0tHNR/SV/ngohfd8t4akQd2TSypzbW0C9keKpkNGRkhS2lEKKp0J6I8VTIaMjNbvfA3C5rCspwY1bVJhdXYenQiaHoL7ZfCDgqZDpIZAXbNT4RcYHFdJNhTiTUyF4bvWg3kkLT4WMnbRgsR6kuL/mqZDp/bXq/2HAn8V0jV/LvlyIYHZDW4ukwHEteoHcZ6GqjHleQWlAo/wdRVX7lFEakmro1XANGvxCg1tWN8Xia125lFZhX1R8LR6NLK/WUJWvjwobUPJzrnGpF6x6JYcPtbrWu0DQFbR7ew/4evrLorL76X+fzOB/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T15:13:29.210Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PC08fsIpBrjmX9k8ZVAf" version="13.10.9" type="github">
+  <diagram id="E3m-XeIQVQSN0iLPFJ0V" name="第 1 页">
+    <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-3" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="270" as="sourcePoint" />
+            <mxPoint x="590" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-4" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-6" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="300" as="sourcePoint" />
+            <mxPoint x="414" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-7" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-8" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-10" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-12" value="服务提供方设置1000进入熔断逻辑&lt;br&gt;服务消费方设置2000进入降级逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="130" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-13" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="300" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-14" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-16" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="410" as="sourcePoint" />
+            <mxPoint x="250" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-17" value="提供方进入熔断逻辑,执行熔断逻辑并返回,如果在消费方超时之前处理完成,则消费方得到熔断的结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-18" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-19" value="如果熔断逻辑在消费方超时之后还未返回,则消费方进入超时降级逻辑,得到降级的结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="320" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-20" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="560" as="sourcePoint" />
+            <mxPoint x="590" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-21" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="590" as="sourcePoint" />
+            <mxPoint x="170" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-22" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-23" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="590" as="sourcePoint" />
+            <mxPoint x="414" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-24" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-25" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-26" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-27" value="服务提供方设置2000进入熔断逻辑&lt;br&gt;服务消费方设置1000进入降级逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-28" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="590" as="sourcePoint" />
+            <mxPoint x="530" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-29" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-30" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="700" as="sourcePoint" />
+            <mxPoint x="250" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-31" value="消费方进入超时降级逻辑,得到降级的结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="610" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-32" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+            <mxPoint x="480" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-33" value="提供方进入熔断逻辑,返回熔断的结果,但是消费方已经降级,收不到这个结果了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="610" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-34" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="880" as="sourcePoint" />
+            <mxPoint x="590" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-35" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="910" as="sourcePoint" />
+            <mxPoint x="170" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-36" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="910" as="sourcePoint" />
+            <mxPoint x="300" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-37" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="910" as="sourcePoint" />
+            <mxPoint x="414" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-38" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-39" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-40" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-41" value="服务提供方设置1000进入熔断逻辑&lt;br&gt;服务消费方设置1000进入降级逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="740" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-42" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="910" as="sourcePoint" />
+            <mxPoint x="530" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-43" value="500ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-44" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1020" as="sourcePoint" />
+            <mxPoint x="250" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-45" value="消费方拿本地的降级结果,提供方虽然返回了熔断结果,但是也收不到了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="930" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEqj9vdKXUoKs3gxg46q-46" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1010" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
