@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:44:53.285Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AnLMaSqSNwd3Owx_g3yg" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T15:45:31.966Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jutd2l_aGRS-Bi2cQbRG" version="13.10.9" type="github">
   <diagram id="E3m-XeIQVQSN0iLPFJ0V" name="第 1 页">
     <mxGraphModel dx="920" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="Sdvme6QABfjAyu6uPsd4-2" value="超时的时长要大于服务提供方的熔断时长" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="10" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sdvme6QABfjAyu6uPsd4-3" value="指定微服务超时时长目前看好像不行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="80" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
