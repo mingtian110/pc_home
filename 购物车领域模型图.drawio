@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T02:18:24.704Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MG1KXUyU9Jw8_r_sS-Sh" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T02:24:32.364Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XYpx1uPtiVvY_gkGpofr" version="14.1.1" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1860" dy="1780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-1" value="购物车" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="224" y="162" width="160" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="商品信息&#xa;档期信息&#xa;商家信息&#xa;店铺信息&#xa;用户信息&#xa;品牌信息&#xa;状态&#xa;加购渠道&#xa;加购类型" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-1">
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="商品信息&#xa;档期信息&#xa;商家信息&#xa;店铺信息&#xa;用户信息&#xa;品牌信息&#xa;状态&#xa;加购渠道&#xa;加购类型&#xa;排序" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-1">
           <mxGeometry y="30" width="160" height="152" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-5" value="商品" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
