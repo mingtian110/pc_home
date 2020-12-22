@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T01:30:16.629Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="Ki17kFl7a3JNwPfnkylU" type="github"><diagram id="V3Xky8mkmhURfC1Skr-L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-22T01:55:12.369Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="s1Tvzn57hDI8w36pFaX-" version="14.1.1" type="github">
+  <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
+    <mxGraphModel dx="1860" dy="1746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-1" value="购物车" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="224" y="162" width="160" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="商品信息&#xa;档期信息&#xa;商家信息&#xa;店铺信息&#xa;用户信息&#xa;品牌信息&#xa;状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-1">
+          <mxGeometry y="30" width="160" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-5" value="商品" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="491" y="188" width="168" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-6" value="商品编号&#xa;商品售罄状态&#xa;商品失效状态&#xa;商品图片&#xa;商品名称&#xa;规格信息&#xa;SKU信息" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-5">
+          <mxGeometry y="30" width="168" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-7" target="dbq2Ga-Kx93OtKvGRiHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-7" value="档期" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="498" y="437" width="160" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-8" value="档期状态&#xa;档期名称&#xa;档期logo&#xa;档期开始时间&#xa;档期结束时间" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-7">
+          <mxGeometry y="30" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-9" value="规格" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="691" y="60" width="160" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-10" value="规格编号&#xa;规格值" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-9">
+          <mxGeometry y="30" width="160" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-11" value="SKU" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="691" y="307" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-12" value="SKU规格信息&#xa;SKU库存数&#xa;SKU状态&#xa;SKU售价&#xa;SKU吊牌价&#xa;SKU图片" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-11">
+          <mxGeometry y="30" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-14" value="商家" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="158" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-15" value="商家名称&#xa;商家头像&#xa;商家编号&#xa;商家状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-14">
+          <mxGeometry y="30" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-16" value="店铺" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="342" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-17" value="店铺名称&#xa;店铺logo&#xa;店铺状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-16">
+          <mxGeometry y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-18" target="dbq2Ga-Kx93OtKvGRiHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-18" value="品牌" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="224" y="464" width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-19" value="品牌名称&#xa;品牌logo&#xa;品牌编号&#xa;品牌状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-18">
+          <mxGeometry y="30" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-20" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="224" width="160" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-21" value="用户编号&#xa;用户名称&#xa;用户头像&#xa;用户状态&#xa;用户邮箱" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="dbq2Ga-Kx93OtKvGRiHQ-20">
+          <mxGeometry y="30" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-15" target="dbq2Ga-Kx93OtKvGRiHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-17" target="dbq2Ga-Kx93OtKvGRiHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-21" target="dbq2Ga-Kx93OtKvGRiHQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-6" target="dbq2Ga-Kx93OtKvGRiHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-12" target="dbq2Ga-Kx93OtKvGRiHQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-10" target="dbq2Ga-Kx93OtKvGRiHQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
