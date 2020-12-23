@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:59:15.948Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OhIO4opDeWQE8xmzbcSl" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:00:47.096Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IxqGHqoGZlsjaAMIP5S1" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="895" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -692,10 +692,10 @@
             <mxPoint x="820" y="2530.4999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-261" value="失效" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-262" target="TEv4NFGnasqdaG9CAdCf-265" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-261" value="失效" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-262" target="TEv4NFGnasqdaG9CAdCf-265" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-276" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-262" target="TEv4NFGnasqdaG9CAdCf-275">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-276" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-262" target="TEv4NFGnasqdaG9CAdCf-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-278" value="有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-276">
@@ -703,15 +703,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-262" value="SKU失效判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-262" value="SKU失效判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="869" y="5224" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-263" value="不重复" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-265" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-263" value="不重复" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-265" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="908.9999999999995" y="5554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-387" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-265" target="TEv4NFGnasqdaG9CAdCf-384">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-387" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-265" target="TEv4NFGnasqdaG9CAdCf-384">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-388" value="重复" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-387">
@@ -719,15 +719,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-265" value="失效重复判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-265" value="失效重复判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="869" y="5422" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-269" value="未超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-270" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-269" value="未超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-270" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="909" y="5697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-386" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-270" target="TEv4NFGnasqdaG9CAdCf-384">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-386" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-270" target="TEv4NFGnasqdaG9CAdCf-384">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-429" value="超限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-386">
@@ -735,7 +735,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-270" value="失效数量超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-270" value="失效数量超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="869" y="5557" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-347" value="不重复" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="TEv4NFGnasqdaG9CAdCf-348" parent="1" target="TEv4NFGnasqdaG9CAdCf-412">
@@ -782,7 +782,7 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-358" value="失效" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-361" target="TEv4NFGnasqdaG9CAdCf-365" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-359" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-361" target="TEv4NFGnasqdaG9CAdCf-348" parent="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-359" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-361" target="TEv4NFGnasqdaG9CAdCf-348" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-360" value="有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-359">
