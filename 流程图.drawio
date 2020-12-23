@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:50:30.870Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M5SWZTEvL9W6jQ9UiM-O" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:52:54.606Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2AdHLOaeKxA32PnNConS" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1800" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -57,17 +57,11 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-53" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;购物车修改&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="110" y="4898" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-54" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;购物车删除&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;br&gt;收藏夹删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="110" y="8491" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-55" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;清理失效商品&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="112.5" y="8315" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-57" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;点击结算&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="91" y="6718" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-56" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;购物车总数查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="110" y="7420" width="80" height="80" as="geometry" />
+          <mxGeometry x="91" y="7007" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-535" value="&lt;span style=&quot;font-family: &amp;quot;verdana&amp;quot;&quot;&gt;购物车删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="93.5" y="6450" width="80" height="80" as="geometry" />
