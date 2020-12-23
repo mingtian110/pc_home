@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:01:52.042Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QLK7eZb7aDT6P7tV8bRa" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:03:18.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yNIIMrL37VwcwNY-6SRI" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1800" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -330,8 +330,8 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-504" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-379" target="TEv4NFGnasqdaG9CAdCf-221">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="256" y="2134" />
-              <mxPoint x="468" y="2134" />
+              <mxPoint x="256" y="2095" />
+              <mxPoint x="468" y="2095" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -357,7 +357,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-415" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;移入失效商品&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="428" y="2007" width="80" height="80" as="geometry" />
+          <mxGeometry x="428" y="1994" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-434" value="数量" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-430">
           <mxGeometry relative="1" as="geometry">
@@ -865,7 +865,7 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-270" value="失效数量超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="879" y="3851" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-347" value="不重复" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="TEv4NFGnasqdaG9CAdCf-348" parent="1" target="TEv4NFGnasqdaG9CAdCf-412">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-347" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="TEv4NFGnasqdaG9CAdCf-348" parent="1" target="TEv4NFGnasqdaG9CAdCf-412">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650.4999999999998" y="4359" as="targetPoint" />
             <Array as="points">
@@ -873,6 +873,11 @@
               <mxPoint x="523" y="4921" />
               <mxPoint x="907" y="4921" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-591" value="&lt;span style=&quot;color: rgb(29 , 53 , 87)&quot;&gt;不重复&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-347">
+          <mxGeometry x="-0.0564" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-348" value="SKU重复判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
@@ -895,12 +900,17 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-390" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-357" target="TEv4NFGnasqdaG9CAdCf-389">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-589" value="超限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-390">
+          <mxGeometry x="-0.4464" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-416" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-357" target="TEv4NFGnasqdaG9CAdCf-412">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-418" value="未超限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-416">
-          <mxGeometry x="-0.0568" y="-3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-590" value="&lt;span style=&quot;color: rgb(29 , 53 , 87)&quot;&gt;未超限&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-416">
+          <mxGeometry x="-0.4739" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-357" value="SKU超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
