@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:32:27.397Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U1Dc17nYbui5opCxalFC" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T11:33:32.588Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="INQA4eKbRwIdcyv0b2i5" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1492" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -340,6 +340,9 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-440" value="不存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-437" target="TEv4NFGnasqdaG9CAdCf-439">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-445" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-437" target="TEv4NFGnasqdaG9CAdCf-444">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-437" value="购物车是否已存在该规格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="252" y="4779" width="80" height="80" as="geometry" />
         </mxCell>
@@ -353,7 +356,10 @@
           <mxGeometry x="252" y="5043" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-443" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="263" y="5171" width="58" height="60" as="geometry" />
+          <mxGeometry x="263" y="5208" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-444" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="130" y="4789" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="营销" style="swimlane;html=1;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=0;snapToPoint=0;fixDash=0;metaEdit=0;backgroundOutline=0;comic=0;fillOpacity=93;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="954" y="20" width="180" height="6319" as="geometry" />
