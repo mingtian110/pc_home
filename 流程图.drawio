@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:57:07.174Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uIByr1upGIQoj3e-rMSP" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:00:19.212Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MIgdehbV8VY2q9tiXY6O" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2550" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,17 +606,17 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-548" value="购物车存在校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="218" y="896" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-563" value="不存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-550">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-563" value="不存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-550">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="533" y="936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-571" value="存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-550" target="TEv4NFGnasqdaG9CAdCf-576">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-571" value="存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-550" target="TEv4NFGnasqdaG9CAdCf-576">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425.99999999999955" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-550" value="收藏夹存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-550" value="收藏夹存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="386" y="896" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-577" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-556" target="TEv4NFGnasqdaG9CAdCf-557">
@@ -644,10 +644,10 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-579" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-576" target="TEv4NFGnasqdaG9CAdCf-578">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-576" value="删除收藏夹内容,数量合并至购物车" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-576" value="删除收藏夹内容,数量合并至购物车" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="196" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-583" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-578" target="TEv4NFGnasqdaG9CAdCf-582">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-583" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-578" target="TEv4NFGnasqdaG9CAdCf-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-585" value="超限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-583">
@@ -655,7 +655,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-586" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-578" target="TEv4NFGnasqdaG9CAdCf-567">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-586" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-578" target="TEv4NFGnasqdaG9CAdCf-567">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="256" y="552" />
@@ -668,10 +668,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-578" value="SKU数量超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-578" value="SKU数量超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="216" y="579" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-584" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-582" target="TEv4NFGnasqdaG9CAdCf-567">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-584" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-582" target="TEv4NFGnasqdaG9CAdCf-567">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="451" y="816" />
@@ -679,7 +679,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-582" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;丢弃收藏夹SKU数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-582" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;丢弃收藏夹SKU数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="401" y="676" width="99" height="61" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="营销" style="swimlane;html=1;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=0;snapToPoint=0;fixDash=0;metaEdit=0;backgroundOutline=0;comic=0;fillOpacity=93;" parent="77e6c97f196da883-1" vertex="1">
