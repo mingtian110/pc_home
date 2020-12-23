@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T09:42:29.547Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mc3U_wEf4oaRvWT6z60M" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T01:45:50.645Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="oLVeKfPc3kmXqdBXWTMz" version="14.1.1" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
-    <mxGraphModel dx="1588" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2041" dy="1763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,16 +115,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-33" target="dbq2Ga-Kx93OtKvGRiHQ-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-79" value="&lt;span style=&quot;background-color: rgb(241 , 250 , 238)&quot;&gt;商品删除&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="dbq2Ga-Kx93OtKvGRiHQ-67">
-          <mxGeometry x="0.0686" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-33" value="加购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="77" y="742" width="120" height="60" as="geometry" />
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-33" value="购物车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="27" y="742" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-34" target="dbq2Ga-Kx93OtKvGRiHQ-36">
           <mxGeometry relative="1" as="geometry" />
@@ -169,50 +161,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-36" target="dbq2Ga-Kx93OtKvGRiHQ-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-70" value="商品删除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" vertex="1" connectable="0" parent="dbq2Ga-Kx93OtKvGRiHQ-69">
-          <mxGeometry x="0.238" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-36" value="失效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="462" y="742" width="120" height="60" as="geometry" />
+          <mxGeometry x="527" y="742" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-81" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="77" y="802" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="324" y="963" />
-              <mxPoint x="77" y="963" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-82" value="撤销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="dbq2Ga-Kx93OtKvGRiHQ-81">
-          <mxGeometry x="0.0165" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-83" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-41" target="dbq2Ga-Kx93OtKvGRiHQ-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-84" value="撤销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="dbq2Ga-Kx93OtKvGRiHQ-83">
-          <mxGeometry x="-0.4704" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-41" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-41" value="回收站" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="264" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-48" value="购物车状态流转" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-41" y="595" width="94" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-85" value="修改数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry y="753" width="61" height="16" as="geometry" />
+          <mxGeometry x="-41" y="751" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-86" value="修改规格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry y="771" width="61" height="16" as="geometry" />
+          <mxGeometry x="-41" y="771" width="61" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-87" value="重复进行合并,超上限丢弃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="63.5" y="603.5" width="216" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-89" value="重复进行合并,达上限丢弃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="96" y="662" width="151" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-91" value="重复进行合并,超上限丢弃&lt;br&gt;超限丢弃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="161" y="802" width="147" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-92" value="重复进行合并,超上限丢弃&lt;br&gt;超限丢弃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="364" y="738" width="147" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
