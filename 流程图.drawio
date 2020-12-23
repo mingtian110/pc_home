@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T07:31:37.297Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mMoxKxdHFxiWAtfl9DeQ" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T07:32:03.668Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YhlS_cM3LT8JYEm6fHD2" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2292" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -58,9 +58,6 @@
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-373" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;移入收藏夹&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="125" y="3723" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-374" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;收藏夹撤销&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="122.5" y="4466" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-402" value="&lt;font face=&quot;verdana&quot;&gt;返回聚合数据&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="122.5" y="1593" width="80" height="80" as="geometry" />
