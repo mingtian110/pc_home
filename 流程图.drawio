@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T03:59:37.089Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="q4ehLLOex_KJTbVkyyHe" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T04:00:10.831Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CKi35ORPZYRVaX5gEtvO" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2204" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -572,7 +572,7 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-522" value="聚合商品,商家,档期,优惠,库存信息" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="364" y="3555" width="58" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-523" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;顺序丢弃&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-523" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;顺序丢弃(查询哪几个数据应该丢弃)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="468" y="2283" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-532" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-526" target="TEv4NFGnasqdaG9CAdCf-522">
