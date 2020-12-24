@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:11:59.848Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yE5k18L-cWPs5tGdUC1Z" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T03:00:37.952Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Jlv2T_HcwyLqRG0mfRWr" version="14.1.1" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
-    <mxGraphModel dx="1155" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,33 @@
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-98" value="统一规则:&lt;br&gt;1.重复进行合并&lt;br&gt;2.超出SKU上限丢弃&lt;br&gt;3.超出购物车上限丢弃&lt;br&gt;4.超出失效商品上限丢弃" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="701" y="670" width="161" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-106" target="dbq2Ga-Kx93OtKvGRiHQ-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-106" target="dbq2Ga-Kx93OtKvGRiHQ-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-106" value="购物车" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-107" value="订单" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-108" target="dbq2Ga-Kx93OtKvGRiHQ-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-108" target="dbq2Ga-Kx93OtKvGRiHQ-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-108" value="档期" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="1153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-109" value="商品" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-112" value="库存" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1259" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
