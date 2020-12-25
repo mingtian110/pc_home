@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T03:49:01.131Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6FsxvfCL7Ul3EpkdnY1C" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T03:49:34.716Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tsBf_mkgj4XvVWtdm1sK" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="4683" dy="2046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2141" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,18 @@
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-639" value="分支逻辑并行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#000000;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="155" y="2289" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-595" value="&lt;font face=&quot;verdana&quot;&gt;收藏夹删除撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="89.5" y="7548" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-596" value="&lt;font face=&quot;verdana&quot;&gt;收藏夹移入购物车撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="89.5" y="7675" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-597" value="&lt;font face=&quot;verdana&quot;&gt;购物车移入收藏夹撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="89.5" y="7807" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-598" value="&lt;font face=&quot;verdana&quot;&gt;购物车删除撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="89.5" y="7929" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-538" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-1" source="TEv4NFGnasqdaG9CAdCf-535" target="TEv4NFGnasqdaG9CAdCf-537">
           <mxGeometry relative="1" as="geometry" />
@@ -1030,18 +1042,6 @@
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-400" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="TEv4NFGnasqdaG9CAdCf-51" target="TEv4NFGnasqdaG9CAdCf-262">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-595" value="&lt;font face=&quot;verdana&quot;&gt;收藏夹删除撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="7233" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-596" value="&lt;font face=&quot;verdana&quot;&gt;收藏夹移入购物车撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
-          <mxGeometry x="-106" y="7361" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-597" value="&lt;font face=&quot;verdana&quot;&gt;购物车移入收藏夹撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="7489" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-598" value="&lt;font face=&quot;verdana&quot;&gt;购物车删除撤销&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="7612" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
