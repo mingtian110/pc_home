@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T03:48:37.735Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="59r3A17qWkkbTRfZtz5H" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T03:49:01.131Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6FsxvfCL7Ul3EpkdnY1C" version="14.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3398" dy="1432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="4683" dy="2046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,9 +48,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-431" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-1" source="TEv4NFGnasqdaG9CAdCf-53" target="TEv4NFGnasqdaG9CAdCf-430">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-2" value="APP" style="swimlane;html=1;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=0;snapToPoint=0;fixDash=0;metaEdit=0;backgroundOutline=0;comic=0;fillOpacity=93;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="326" height="9591" as="geometry" />
         </mxCell>
@@ -88,7 +85,7 @@
           <mxGeometry x="91" y="4056" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-53" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;购物车修改&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="87" y="5922" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="5922" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-57" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;点击结算&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="87" y="8449" width="80" height="80" as="geometry" />
@@ -155,6 +152,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-631" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" edge="1" parent="77e6c97f196da883-1" source="TEv4NFGnasqdaG9CAdCf-147" target="TEv4NFGnasqdaG9CAdCf-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-431" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-1" source="TEv4NFGnasqdaG9CAdCf-53" target="TEv4NFGnasqdaG9CAdCf-430">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="购物车" style="swimlane;html=1;startSize=20;sketch=0;snapToPoint=0;fixDash=0;metaEdit=0;backgroundOutline=0;comic=0;fillOpacity=93;strokeColor=#457B9D;labelBackgroundColor=none;fillColor=#A8DADC;" parent="77e6c97f196da883-1" vertex="1">
@@ -393,16 +393,16 @@
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-434" value="数量" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-430">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="396" y="6136" as="targetPoint" />
+            <mxPoint x="419" y="6136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-436" value="规格" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-430" target="TEv4NFGnasqdaG9CAdCf-437">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288" y="6033" as="targetPoint" />
+            <mxPoint x="311" y="6033" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-430" value="修改规格,数量" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="356" y="5993" width="80" height="80" as="geometry" />
+          <mxGeometry x="379" y="5993" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-440" value="不存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-437" target="TEv4NFGnasqdaG9CAdCf-439">
           <mxGeometry relative="1" as="geometry" />
@@ -411,7 +411,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-437" value="购物车是否已存在该规格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="246" y="6133" width="80" height="80" as="geometry" />
+          <mxGeometry x="269" y="6133" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-442" value="不存在" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-439" target="TEv4NFGnasqdaG9CAdCf-441">
           <mxGeometry relative="1" as="geometry" />
@@ -419,8 +419,8 @@
         <mxCell id="TEv4NFGnasqdaG9CAdCf-470" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-439" target="TEv4NFGnasqdaG9CAdCf-469">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="6305" />
-              <mxPoint x="214" y="6753" />
+              <mxPoint x="237" y="6305" />
+              <mxPoint x="237" y="6753" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -430,13 +430,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-439" value="收藏夹是否存在该规格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="246" y="6265" width="80" height="80" as="geometry" />
+          <mxGeometry x="269" y="6265" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-463" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-441" target="TEv4NFGnasqdaG9CAdCf-462">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="233" y="6437" />
-              <mxPoint x="233" y="7285" />
+              <mxPoint x="256" y="6437" />
+              <mxPoint x="256" y="7285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -449,17 +449,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-441" value="失效商品是否存在该规格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="246" y="6397" width="80" height="80" as="geometry" />
+          <mxGeometry x="269" y="6397" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-447" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-444" target="TEv4NFGnasqdaG9CAdCf-446">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-444" value="数量合并" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="124" y="6143" width="58" height="60" as="geometry" />
+          <mxGeometry x="147" y="6143" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-448" value="未超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-446" target="TEv4NFGnasqdaG9CAdCf-472">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="153" y="6407" as="targetPoint" />
+            <mxPoint x="176" y="6407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-450" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-446" target="TEv4NFGnasqdaG9CAdCf-449">
@@ -471,10 +471,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-446" value="SKU超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="113" y="6265" width="80" height="80" as="geometry" />
+          <mxGeometry x="136" y="6265" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-449" value="提示SKU超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="2" y="6265" width="80" height="80" as="geometry" />
+          <mxGeometry x="25" y="6265" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-454" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-451" target="TEv4NFGnasqdaG9CAdCf-453">
           <mxGeometry relative="1" as="geometry" />
@@ -483,27 +483,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-451" value="SKU超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="356" y="6136" width="80" height="80" as="geometry" />
+          <mxGeometry x="379" y="6136" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-452" value="更新数量" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="356" y="6269" width="80" height="80" as="geometry" />
+          <mxGeometry x="379" y="6269" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-453" value="提示SKU超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="495" y="6136" width="80" height="80" as="geometry" />
+          <mxGeometry x="518" y="6136" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-459" value="超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-456" target="TEv4NFGnasqdaG9CAdCf-458">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-461" value="未超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-456">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="153" y="6998" as="targetPoint" />
+            <mxPoint x="176" y="6998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-456" value="&lt;span&gt;SKU超限判断&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="113" y="6846" width="80" height="80" as="geometry" />
+          <mxGeometry x="136" y="6846" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-458" value="提示SKU超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="2" y="6846" width="80" height="80" as="geometry" />
+          <mxGeometry x="25" y="6846" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-465" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-462" target="TEv4NFGnasqdaG9CAdCf-464">
           <mxGeometry relative="1" as="geometry" />
@@ -517,19 +517,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-462" value="&lt;span&gt;SKU超限判断&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="108" y="7245" width="80" height="80" as="geometry" />
+          <mxGeometry x="131" y="7245" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-464" value="提示SKU超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="-3" y="7245" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="7245" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-466" value="丢弃之前的,保留现在的" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="119" y="7385" width="58" height="60" as="geometry" />
+          <mxGeometry x="142" y="7385" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-471" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-469" target="TEv4NFGnasqdaG9CAdCf-456">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-469" value="数量合并" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="124" y="6723" width="58" height="60" as="geometry" />
+          <mxGeometry x="147" y="6723" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-474" value="超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;labelBorderColor=none;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-472" target="TEv4NFGnasqdaG9CAdCf-473">
           <mxGeometry relative="1" as="geometry" />
@@ -538,13 +538,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-472" value="购物车总数超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="113" y="6432" width="80" height="80" as="geometry" />
+          <mxGeometry x="136" y="6432" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-473" value="提示购物车超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="2" y="6432" width="80" height="80" as="geometry" />
+          <mxGeometry x="25" y="6432" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-475" value="删除之前的,保留现在的" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="124" y="6560" width="58" height="60" as="geometry" />
+          <mxGeometry x="147" y="6560" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-477" value="超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" source="TEv4NFGnasqdaG9CAdCf-479" target="TEv4NFGnasqdaG9CAdCf-480" parent="77e6c97f196da883-3">
           <mxGeometry relative="1" as="geometry" />
@@ -558,19 +558,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-479" value="购物车总数超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="113" y="6997" width="80" height="80" as="geometry" />
+          <mxGeometry x="136" y="6997" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-480" value="提示购物车超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="2" y="6997" width="80" height="80" as="geometry" />
+          <mxGeometry x="25" y="6997" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-481" value="?" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="124" y="7125" width="58" height="60" as="geometry" />
+          <mxGeometry x="147" y="7125" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-488" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-485" target="TEv4NFGnasqdaG9CAdCf-487">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-485" value="删除之前的,保留现在的" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;arcSize=29;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="257" y="6560" width="58" height="60" as="geometry" />
+          <mxGeometry x="280" y="6560" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-490" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-487" target="TEv4NFGnasqdaG9CAdCf-489">
           <mxGeometry relative="1" as="geometry" />
@@ -584,10 +584,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-487" value="SKU超限判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="246" y="6670" width="80" height="80" as="geometry" />
+          <mxGeometry x="269" y="6670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-489" value="提示SKU超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="392" y="6670" width="80" height="80" as="geometry" />
+          <mxGeometry x="415" y="6670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-496" value="未超限" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-492" target="TEv4NFGnasqdaG9CAdCf-495">
           <mxGeometry relative="1" as="geometry" />
@@ -596,13 +596,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-492" value="购物车总数超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="246" y="6825" width="80" height="80" as="geometry" />
+          <mxGeometry x="269" y="6825" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-495" value="进入加购逻辑" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="257" y="6960" width="58" height="60" as="geometry" />
+          <mxGeometry x="280" y="6960" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-497" value="提示购物车超限" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="392" y="6825" width="80" height="80" as="geometry" />
+          <mxGeometry x="415" y="6825" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-522" value="聚合商品,商家,档期,优惠,库存信息" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="364" y="4066" width="58" height="60" as="geometry" />
