@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T11:54:49.118Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WkWQZN2MBR_cSDjvXHfo" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T11:58:45.970Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QcRxg8yl-wl45h7EZKUO" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1643" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-1" value="购物车" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="325" width="160" height="217" as="geometry" />
+          <mxGeometry x="-3" y="337" width="160" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="商品信息&#xa;List&lt;&gt;档期信息&#xa;商家信息&#xa;店铺信息&#xa;用户信息&#xa;品牌信息&#xa;&#xa;状态&#xa;加购渠道&#xa;购买类型&#xa;排序&#xa;类型&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-1" vertex="1">
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="用户信息&#xa;状态&#xa;加购渠道&#xa;购买类型&#xa;排序&#xa;类型&#xa;&#xa;List&lt;Acitivity&gt;档期信息&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-1" vertex="1">
           <mxGeometry y="30" width="160" height="187" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-5" value="商品" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="337" y="102" width="168" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-6" value="商品编号&#xa;商品售罄状态&#xa;商品失效状态&#xa;商家上下架状态&#xa;商品主图&#xa;商品名称&#xa;规格信息&lt;Map&gt;&#xa;SKU信息" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-5" vertex="1">
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-6" value="商品编号&#xa;商品售罄状态&#xa;商品失效状态&#xa;商家上下架状态&#xa;商品主图&#xa;商品名称&#xa;List&lt;category&gt;规格信息&#xa;List&lt;SKU&gt; SKU信息" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-5" vertex="1">
           <mxGeometry y="30" width="168" height="125" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-7" target="dbq2Ga-Kx93OtKvGRiHQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-7" value="档期" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="341" y="329" width="160" height="238" as="geometry" />
+          <mxGeometry x="341" y="323" width="160" height="276" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-8" value="档期状态&#xa;档期名称&#xa;档期logo&#xa;档期开始时间&#xa;档期结束时间&#xa;品牌名称&#xa;品牌logo&#xa;品牌编号&#xa;品牌状态&#xa;商家名称&#xa;商家头像&#xa;商家编号&#xa;商家状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-7" vertex="1">
-          <mxGeometry y="30" width="160" height="208" as="geometry" />
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-8" value="档期状态&#xa;档期名称&#xa;档期logo&#xa;档期开始时间&#xa;档期结束时间&#xa;品牌名称&#xa;品牌logo&#xa;品牌编号&#xa;品牌状态&#xa;商家名称&#xa;商家头像&#xa;商家编号&#xa;商家状态&#xa;List&lt;Product&gt; 商品信息" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-7" vertex="1">
+          <mxGeometry y="30" width="160" height="246" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-11" value="SKU" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="691" y="239" width="160" height="144" as="geometry" />
@@ -381,6 +381,12 @@
         </mxCell>
         <mxCell id="oxxxaZczWbnwHfDURmfY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-6" target="dbq2Ga-Kx93OtKvGRiHQ-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxxxaZczWbnwHfDURmfY-108" value="SKU" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="691" y="82" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="oxxxaZczWbnwHfDURmfY-109" value="规格键&#xa;规格值" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" vertex="1" parent="oxxxaZczWbnwHfDURmfY-108">
+          <mxGeometry y="30" width="160" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
