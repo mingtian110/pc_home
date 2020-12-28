@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T03:37:59.645Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XW3LwkONxtn79ncAL88h" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T06:46:46.606Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HABhfoHLL3ZWhguiJT0m" version="14.1.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2544" dy="1374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2902" dy="1537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,8 +408,13 @@
             <mxPoint x="311" y="6033" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEv4NFGnasqdaG9CAdCf-640" value="&lt;span style=&quot;color: rgb(29 , 53 , 87)&quot;&gt;数量&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-430" target="TEv4NFGnasqdaG9CAdCf-451" edge="1">
+        <mxCell id="TEv4NFGnasqdaG9CAdCf-640" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#000000;" parent="77e6c97f196da883-3" source="TEv4NFGnasqdaG9CAdCf-430" target="TEv4NFGnasqdaG9CAdCf-451" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K4Fk311Fe17gkl7sU0yo-3" value="&lt;span style=&quot;color: rgb(29 , 53 , 87)&quot;&gt;数量&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TEv4NFGnasqdaG9CAdCf-640">
+          <mxGeometry x="-0.5289" y="5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TEv4NFGnasqdaG9CAdCf-430" value="修改规格,数量" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="379" y="5993" width="80" height="80" as="geometry" />
