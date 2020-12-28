@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T12:59:19.027Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pXwLd7tUFEtV_nSiFp3F" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T13:00:10.393Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6VCM4Y3GiYenIE3sQlmc" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1643" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-1" value="购物车" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="251" y="84.5" width="160" height="182" as="geometry" />
+          <mxGeometry x="246" y="98" width="160" height="182" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-2" value="userInfo 用户信息&#xa;status 状态&#xa;source 加购渠道&#xa;buyType 购买类型&#xa;sort 排序&#xa;type 类型&#xa;&#xa;List&lt;AcitivityInfo&gt; 档期信息&#xa;userInfo 用户信息&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-1" vertex="1">
           <mxGeometry y="30" width="160" height="152" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-7" value="档期" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="502" y="49" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-8" value="activityStatus 档期状态&#xa;activityName 档期名称&#xa;activityLogo 档期logo&#xa;activityStartTime 开始时间&#xa;activityEndTime 结束时间&#xa;desc 档期备注&#xa;brandName 品牌名称&#xa;brandLogo 品牌logo&#xa;brandCode 品牌编号&#xa;brandStatus 品牌状态&#xa;merchantName 商家名称&#xa;merchantAvatar 商家头像&#xa;merchantCode 商家编号&#xa;merchantStatus 商家状态&#xa;discountInfo 优惠信息&#xa;List&lt;ProductInfo&gt; 商品信息&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-7" vertex="1">
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-8" value="activityStatus 档期状态&#xa;activityName 档期名称&#xa;activityLogo 档期logo&#xa;activityStartTime 开始时间&#xa;activityEndTime 结束时间&#xa;desc 档期备注&#xa;brandName 品牌名称&#xa;brandLogo 品牌logo&#xa;brandCode 品牌编号&#xa;brandStatus 品牌状态&#xa;merchantName 商家名称&#xa;merchantAvatar 商家头像&#xa;merchantCode 商家编号&#xa;merchantStatus 商家状态&#xa;discountInfo 优惠信息&#xa;&#xa;List&lt;ProductInfo&gt; 商品信息&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-7" vertex="1">
           <mxGeometry y="30" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-11" value="SKU" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
@@ -29,7 +29,7 @@
           <mxGeometry y="30" width="160" height="108" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-20" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="134" width="160" height="136" as="geometry" />
+          <mxGeometry x="-10" y="147" width="160" height="136" as="geometry" />
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-21" value="userCode 用户编号&#xa;userNickName 用户名称&#xa;userAvatar 用户头像&#xa;userStatus 用户状态&#xa;email 用户邮箱&#xa;role 用户角色" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#1D3557;" parent="dbq2Ga-Kx93OtKvGRiHQ-20" vertex="1">
           <mxGeometry y="30" width="160" height="106" as="geometry" />
