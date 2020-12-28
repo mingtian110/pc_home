@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T07:03:16.607Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LM61uVRjTnMkrx2YTQCc" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T07:03:43.451Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EQPs5Br_3-SvvqvQNoKz" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1651" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -121,8 +121,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-33" target="oxxxaZczWbnwHfDURmfY-84">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oxxxaZczWbnwHfDURmfY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-33" target="oxxxaZczWbnwHfDURmfY-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="933" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-33" value="购物车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="25" y="795" width="120" height="60" as="geometry" />
@@ -371,8 +373,8 @@
             <mxPoint x="-38" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-84" value="结算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="903" width="120" height="60" as="geometry" />
+        <mxCell id="oxxxaZczWbnwHfDURmfY-86" value="结算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="903.5" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
