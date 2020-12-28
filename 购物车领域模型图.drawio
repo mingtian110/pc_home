@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T05:58:04.994Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YI4UiSMBkzsFyjKRmoZ_" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T05:58:32.098Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uDm85bvoG1jGjRmKbIgr" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1651" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="oxxxaZczWbnwHfDURmfY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="oxxxaZczWbnwHfDURmfY-19" target="oxxxaZczWbnwHfDURmfY-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-19" value="收藏夹" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-19" value="收藏夹" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="143" y="2383" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oxxxaZczWbnwHfDURmfY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="oxxxaZczWbnwHfDURmfY-20" target="oxxxaZczWbnwHfDURmfY-34">
@@ -313,13 +313,13 @@
         <mxCell id="oxxxaZczWbnwHfDURmfY-24" value="购物车删除" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="298" y="2166" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-25" value="移入收藏夹" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-25" value="移入收藏夹" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="302" y="2232" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-26" value="收藏夹删除" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-26" value="收藏夹删除" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="302" y="2383" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-27" value="移入购物车" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-27" value="移入购物车" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="305" y="2460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oxxxaZczWbnwHfDURmfY-34" value="清空失效商品" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
@@ -331,7 +331,7 @@
         <mxCell id="oxxxaZczWbnwHfDURmfY-38" value="购物车查询" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="298" y="2093" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-39" value="收藏夹查询" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-39" value="收藏夹查询" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="305" y="2306" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
