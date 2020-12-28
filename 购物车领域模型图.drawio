@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T06:37:56.739Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GTVg-euoPEPl87QoaAqH" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T06:38:31.296Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pGBw70V1KNELh4bilVIb" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1651" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -138,8 +138,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#2D7600;fontColor=#1D3557;fillColor=#60a917;labelBackgroundColor=#F1FAEE;" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-34" target="dbq2Ga-Kx93OtKvGRiHQ-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#2D7600;fontColor=#1D3557;fillColor=#60a917;labelBackgroundColor=#F1FAEE;" parent="1" source="dbq2Ga-Kx93OtKvGRiHQ-34" target="dbq2Ga-Kx93OtKvGRiHQ-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="78" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dbq2Ga-Kx93OtKvGRiHQ-78" value="&lt;span style=&quot;background-color: rgb(241 , 250 , 238)&quot;&gt;加人购物车&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="dbq2Ga-Kx93OtKvGRiHQ-45" vertex="1" connectable="0">
           <mxGeometry x="-0.0569" relative="1" as="geometry">
@@ -153,8 +157,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oxxxaZczWbnwHfDURmfY-77" value="撤销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="oxxxaZczWbnwHfDURmfY-76">
-          <mxGeometry x="-0.1994" y="2" relative="1" as="geometry">
+        <mxCell id="oxxxaZczWbnwHfDURmfY-82" value="撤销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="oxxxaZczWbnwHfDURmfY-76">
+          <mxGeometry x="-0.4267" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
