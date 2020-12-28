@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T03:35:11.784Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZQkZ44LKCRNu49vaDZQo" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T03:38:03.077Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i5oJJHpddtG6qH9TkEvc" version="14.1.2" type="github">
   <diagram id="V3Xky8mkmhURfC1Skr-L" name="第 1 页">
     <mxGraphModel dx="1651" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="oxxxaZczWbnwHfDURmfY-7" value="库存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-123" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oxxxaZczWbnwHfDURmfY-10" value="系统交互图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-249" y="1002" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oxxxaZczWbnwHfDURmfY-11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="290" y="304" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
