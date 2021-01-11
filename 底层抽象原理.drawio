@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T12:57:20.862Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="P5qmOwIXeERQIo5cdZcZ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T12:58:18.236Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PkyWrzuYF65u_kBZiHq5" version="14.1.8" type="github">
   <diagram id="DDyWShpIytVCfgVJ-_LT" name="第 1 页">
     <mxGraphModel dx="935" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,22 +15,22 @@
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bsKOpfMS5aqEckBFsZ0F-6" target="bsKOpfMS5aqEckBFsZ0F-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Keypad.svg;" vertex="1" parent="1">
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-6" value="模型" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Keypad.svg;" vertex="1" parent="1">
           <mxGeometry x="335.38" y="60.5" width="39.05" height="71" as="geometry" />
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bsKOpfMS5aqEckBFsZ0F-9" target="bsKOpfMS5aqEckBFsZ0F-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_EoR.svg;" vertex="1" parent="1">
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-9" value="模型库" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_EoR.svg;" vertex="1" parent="1">
           <mxGeometry x="312" y="168.4" width="85.8" height="173.4" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="1">
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-12" value="原型" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="481" y="165.7" width="88.2" height="178.8" as="geometry" />
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bsKOpfMS5aqEckBFsZ0F-14" target="bsKOpfMS5aqEckBFsZ0F-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-14" value="原型" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="165" y="39.19999999999999" width="88.2" height="114.6" as="geometry" />
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bsKOpfMS5aqEckBFsZ0F-16" target="bsKOpfMS5aqEckBFsZ0F-9">
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="67" y="225.1" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-23" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;设计&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="189" y="336" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
