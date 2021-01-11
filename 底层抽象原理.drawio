@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T01:49:20.821Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6315uUtdXlg5mJr2Otf9" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T01:49:44.757Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JY9rjlRpFIK6kulyDnl6" version="14.1.8" type="github">
   <diagram id="DDyWShpIytVCfgVJ-_LT" name="第 1 页">
     <mxGraphModel dx="930" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="480" y="163" width="88.2" height="178.8" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-13" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
-          <mxGeometry x="170" y="62" width="54.6" height="70.19999999999999" as="geometry" />
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="165" y="39.19999999999999" width="88.2" height="114.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
