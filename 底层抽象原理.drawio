@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T13:01:20.579Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="2YKZQsnpBeajrFrBSCeb" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T13:01:51.815Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tlXvmhLpzrzaWMk1lblO" version="14.1.8" type="github">
   <diagram id="DDyWShpIytVCfgVJ-_LT" name="第 1 页">
     <mxGraphModel dx="935" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-9" value="模型库" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_EoR.svg;" vertex="1" parent="1">
           <mxGeometry x="312" y="168.4" width="85.8" height="173.4" as="geometry" />
         </mxCell>
-        <mxCell id="bsKOpfMS5aqEckBFsZ0F-12" value="原型" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="1">
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;rotation=-120;" vertex="1" parent="1">
           <mxGeometry x="496" y="165.70000000000002" width="88.2" height="178.8" as="geometry" />
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bsKOpfMS5aqEckBFsZ0F-14" target="bsKOpfMS5aqEckBFsZ0F-27">
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-29" value="原型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="154" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bsKOpfMS5aqEckBFsZ0F-32" value="原型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="331" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
