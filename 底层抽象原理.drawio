@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T12:50:02.249Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="iby8BqA8fxsDSjLrzqsp" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T12:56:55.299Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="AS3bLsHAdFOAk9pioygS" version="14.1.8" type="github">
   <diagram id="DDyWShpIytVCfgVJ-_LT" name="第 1 页">
     <mxGraphModel dx="935" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-16" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;rotation=-120;" vertex="1" parent="1">
-          <mxGeometry x="127.8" y="190.3" width="125.39999999999999" height="129.60000000000002" as="geometry" />
+          <mxGeometry x="146.4" y="190.3" width="125.39999999999999" height="129.60000000000002" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
