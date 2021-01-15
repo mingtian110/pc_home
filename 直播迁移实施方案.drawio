@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T09:53:34.796Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qGHUpx073iNxhCqrcIGQ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:56:00.659Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wgWxvFJrEsGItLR-Ny2I" version="14.1.8" type="github">
   <diagram id="KDqxreiP4ad8gOxXgdTT" name="第 1 页">
     <mxGraphModel dx="2483" dy="1958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,8 +60,24 @@
         <mxCell id="CtFvst-kLlxkVtz9HqXl-10" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180.75" y="-181" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-16" target="CtFvst-kLlxkVtz9HqXl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="26" y="476" />
+              <mxPoint x="26" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-16" value="微服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="431" width="68" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-17" target="CtFvst-kLlxkVtz9HqXl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="26" y="476" />
+              <mxPoint x="26" y="712" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-17" value="微服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="431" width="68" height="45" as="geometry" />
@@ -87,8 +103,14 @@
         <mxCell id="CtFvst-kLlxkVtz9HqXl-28" value="阿波罗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112.75" y="535" width="68" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-29" target="CtFvst-kLlxkVtz9HqXl-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-29" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="33.25" y="593.5" width="68" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-30" target="CtFvst-kLlxkVtz9HqXl-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-30" value="&lt;span&gt;定时任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112.75" y="593.5" width="68" height="45" as="geometry" />
@@ -103,10 +125,10 @@
           <mxGeometry x="-257" y="215" width="256" height="143" as="geometry" />
         </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-33" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33.25" y="689" width="69" height="45" as="geometry" />
+          <mxGeometry x="117" y="747" width="69" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-34" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="112.25" y="689" width="69" height="45" as="geometry" />
+          <mxGeometry x="79" y="689" width="69" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CtFvst-kLlxkVtz9HqXl-35" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="33.25" y="747" width="69" height="45" as="geometry" />
