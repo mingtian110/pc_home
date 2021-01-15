@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T07:19:04.428Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.1.8" etag="Rr15vOk5zBgR5pE2T2Kj" type="github"><diagram id="KDqxreiP4ad8gOxXgdTT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-15T08:58:33.855Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tPN8OSaTzNsZB37anQso" version="14.1.8" type="github">
+  <diagram id="KDqxreiP4ad8gOxXgdTT" name="第 1 页">
+    <mxGraphModel dx="2013" dy="1739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-1" target="CtFvst-kLlxkVtz9HqXl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-1" value="app.sisiim.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-2" value="SLB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-3" value="维护页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-4" value="华为云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="300" width="162" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CtFvst-kLlxkVtz9HqXl-10" target="CtFvst-kLlxkVtz9HqXl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-10" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-11" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-12" value="APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtFvst-kLlxkVtz9HqXl-13" value="主播端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
