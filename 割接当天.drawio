@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T05:51:46.031Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yvWxLhiSZAkgwKUeLmM7" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T05:54:18.002Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8zjTZeEPM7UBuRBa_I3y" version="14.1.8" type="github">
   <diagram id="rvpRbDeUgA8YePQZKAHE" name="第 1 页">
-    <mxGraphModel dx="974" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,29 +13,26 @@
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-10" value="代码,配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="222" y="461" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-D_Cvpl0m4vMDCp08sZc-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="231.5" y="287" width="44" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-15" value="域名指向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6" y="227" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-16" value="任务停止" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="76" y="227" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-D_Cvpl0m4vMDCp08sZc-17" value="应用停止" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="147" y="227" width="75" height="20" as="geometry" />
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-17" value="验证存储无变动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163" y="227" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-20" value="应用启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="227" width="75" height="20" as="geometry" />
+          <mxGeometry x="381" y="227" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-21" value="任务启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="227" width="75" height="20" as="geometry" />
+          <mxGeometry x="469.5" y="227" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-D_Cvpl0m4vMDCp08sZc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-D_Cvpl0m4vMDCp08sZc-11" target="-D_Cvpl0m4vMDCp08sZc-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-23" value="华为云配置移除tmp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="227" width="116" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-D_Cvpl0m4vMDCp08sZc-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry y="287" width="44" height="44" as="geometry" />
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-24" value="应用停止" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="227" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
