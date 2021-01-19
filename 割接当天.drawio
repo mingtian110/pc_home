@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T08:35:39.526Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6PK3lI5eDM-3_PBEDNHy" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:36:00.914Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bq89i3d3jIfkAtJHt7Fg" version="14.1.8" type="github">
   <diagram id="rvpRbDeUgA8YePQZKAHE" name="第 1 页">
     <mxGraphModel dx="2117" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-34" value="华为云应用启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1016" y="1233" width="106" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-D_Cvpl0m4vMDCp08sZc-35" value="华为云任务启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-35" value="华为云任务启动&lt;br&gt;华为云canal启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140.5" y="1281" width="111" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-36" value="华为云日志确定应用状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
