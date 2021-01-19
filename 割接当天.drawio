@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T08:02:37.593Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="CI4a8q1LQ3uTnngkhGYo" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:03:48.552Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="FZP7KlB8SjHUOTRzfoLA" version="14.1.8" type="github">
   <diagram id="rvpRbDeUgA8YePQZKAHE" name="第 1 页">
-    <mxGraphModel dx="1977" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="106.5" y="1539.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#A8DADC;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="601" y="1185" width="20" height="829" as="geometry" />
+          <mxGeometry x="593" y="1185" width="20" height="829" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-106" value="前置检测阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="71.5" y="1623.5" width="97" height="20" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="569.5" y="1623.5" width="97" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-108" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#A8DADC;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1258" y="1362" width="20" height="475" as="geometry" />
+          <mxGeometry x="1248" y="1362" width="20" height="475" as="geometry" />
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-109" value="华为云启动,测试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1219.5" y="1615" width="97" height="20" as="geometry" />
@@ -135,6 +135,15 @@
         </mxCell>
         <mxCell id="-D_Cvpl0m4vMDCp08sZc-111" value="外部流量引入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1639.5" y="1615" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-112" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="169" y="945" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-113" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="1261" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-D_Cvpl0m4vMDCp08sZc-114" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1428" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
