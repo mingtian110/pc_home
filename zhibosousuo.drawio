@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T02:47:02.410Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.2.9" etag="zOoo9WbtWcGUTOCEOuJ6" type="github"><diagram id="GcRZQmljfoey3caTgaKf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T02:59:02.228Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="P0YrOHHa9WvkVMcQk3_Q" version="14.2.9" type="github">
+  <diagram id="GcRZQmljfoey3caTgaKf" name="第 1 页">
+    <mxGraphModel dx="1395" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-1" value="x-app-member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="163" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.446;exitY=0;exitDx=0;exitDy=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-20" value="返回直播搜索数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaOAmHlpbyaLp1HaV83z-19">
+          <mxGeometry x="0.4154" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-2" value="x-member-search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="323" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-3" target="oaOAmHlpbyaLp1HaV83z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-11" value="通过MQ发布直播聚合变更数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaOAmHlpbyaLp1HaV83z-10">
+          <mxGeometry x="-0.1714" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-3" value="x-live-center&lt;br&gt;汇总直播,优惠券,商品,活动等数据进行整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.229;exitY=-0.017;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-6" target="oaOAmHlpbyaLp1HaV83z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-14" value="从ES查询直播搜索数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaOAmHlpbyaLp1HaV83z-12">
+          <mxGeometry x="-0.2334" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-6" value="ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="533" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.789;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-7" target="oaOAmHlpbyaLp1HaV83z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-9" value="搜索数据写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaOAmHlpbyaLp1HaV83z-8">
+          <mxGeometry x="-0.176" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-7" value="x-member-consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-16" target="oaOAmHlpbyaLp1HaV83z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-18" value="中控台创建直播,触发直播变更" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaOAmHlpbyaLp1HaV83z-17">
+          <mxGeometry x="0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-16" value="x-member-web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="163" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-21" target="oaOAmHlpbyaLp1HaV83z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-21" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="223" y="34" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaOAmHlpbyaLp1HaV83z-22" target="oaOAmHlpbyaLp1HaV83z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOAmHlpbyaLp1HaV83z-22" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="34" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
