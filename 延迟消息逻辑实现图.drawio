@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T07:21:58.224Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="LjkavbomsFI3i_kGnHlU" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T07:23:18.282Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="yGCWvpiQf5y0-YXzbgie" version="14.4.3" type="github">
   <diagram id="0AzZb19bsxnPVwuyEdbw" name="第 1 页">
     <mxGraphModel dx="946" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="k3NLaYfG3aFrSewNFesT-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="374.6" y="101.22" width="20" height="738.32" as="geometry" />
         </mxCell>
-        <mxCell id="k3NLaYfG3aFrSewNFesT-10" value="本次任务扫描执行时间跨度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279" y="488.37" width="153" height="22" as="geometry" />
+        <mxCell id="k3NLaYfG3aFrSewNFesT-10" value="本次任务&lt;font color=&quot;#ff3333&quot;&gt;扫描&lt;/font&gt;执行时间跨度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="488.37" width="153" height="22" as="geometry" />
         </mxCell>
         <mxCell id="k3NLaYfG3aFrSewNFesT-11" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="64" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="k3NLaYfG3aFrSewNFesT-12" value="扫描出执行时间小于12:00:00的,直接投递MQ&lt;br&gt;本档最小延迟时间为10秒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k3NLaYfG3aFrSewNFesT-12" value="扫描出执行时间小于12:00:00的,直接投递MQ,本档&lt;font color=&quot;#ff3333&quot;&gt;最小延迟10秒&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="33" width="174" height="12" as="geometry" />
         </mxCell>
         <mxCell id="k3NLaYfG3aFrSewNFesT-13" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -64,19 +64,19 @@
         <mxCell id="k3NLaYfG3aFrSewNFesT-16" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="335.16" y="138" width="10" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="k3NLaYfG3aFrSewNFesT-17" value="扫描时间在12:00:00-01之间的,投递至1s延迟级别,本档最大延迟1秒" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k3NLaYfG3aFrSewNFesT-17" value="扫描时间在12:00:00-01之间的,投递至1s延迟级别,本档&lt;font color=&quot;#ff3333&quot;&gt;最大延迟1秒&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="253.16000000000003" y="88" width="178.84" height="44" as="geometry" />
         </mxCell>
         <mxCell id="k3NLaYfG3aFrSewNFesT-18" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="182" width="10" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="k3NLaYfG3aFrSewNFesT-19" value="&lt;div&gt;&lt;/div&gt;扫描时间在12:00:01-05之间的,投递至5s延迟级别,本档最大延迟时间为4秒" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k3NLaYfG3aFrSewNFesT-19" value="&lt;div&gt;&lt;/div&gt;扫描时间在12:00:01-05之间的,投递至5s延迟级别,本档&lt;font color=&quot;#ff3333&quot;&gt;最大延迟4秒&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="126.76" width="195" height="58" as="geometry" />
         </mxCell>
         <mxCell id="k3NLaYfG3aFrSewNFesT-20" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="647.11" y="220" width="10" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="k3NLaYfG3aFrSewNFesT-21" value="扫描时间在05-10之间的,投递至10s延迟级别,本档最大延迟时间为5秒" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k3NLaYfG3aFrSewNFesT-21" value="扫描时间在05-10之间的,投递至10s延迟级别,本档&lt;font color=&quot;#ff3333&quot;&gt;最大延迟为5秒&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586" y="174" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="k3NLaYfG3aFrSewNFesT-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
