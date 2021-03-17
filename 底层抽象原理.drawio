@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:55:08.081Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="u_ymLK74H1Nas3tylLz0" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:55:34.678Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="pROAs2YEX90Hyoo-pqlm" version="14.4.8" type="github">
   <diagram id="DDyWShpIytVCfgVJ-_LT" name="第 1 页">
     <mxGraphModel dx="946" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,8 +59,8 @@
         <mxCell id="bsKOpfMS5aqEckBFsZ0F-32" value="原型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="331" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ev8WQkjlmZREuX6C9P3M-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="159" y="212" width="100" height="100" as="geometry" />
+        <mxCell id="ev8WQkjlmZREuX6C9P3M-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="218" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
