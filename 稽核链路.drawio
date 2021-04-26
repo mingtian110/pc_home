@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T01:15:24.210Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8bQKitUv0nDwLS0tjlI0" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T01:15:56.009Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="KIxZAOgAhLxfUvwbWf_6" version="14.6.0" type="github">
   <diagram id="7rVMdZczW6YO58kJNmGc" name="第 1 页">
     <mxGraphModel dx="1186" dy="1706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,11 +123,8 @@
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-44" value="推送订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="351" width="70" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="fpGJ1PohXhWPPfaMkgI3-47" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="673" y="253" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fpGJ1PohXhWPPfaMkgI3-48" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="166" width="40" height="20" as="geometry" />
+        <mxCell id="fpGJ1PohXhWPPfaMkgI3-48" value="处罚推结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="166" width="64" height="17" as="geometry" />
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-49" value="新老处罚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="751" y="98" width="60" height="1" as="geometry" />
@@ -172,6 +169,9 @@
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-57" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="-157" width="74" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fpGJ1PohXhWPPfaMkgI3-74" value="售后推结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="669" y="254.5" width="64" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
