@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T06:02:10.883Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="md0rEGuBYaIWeS3o7_XK" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T06:03:13.474Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="MV7LXnML3Iho5ErdA8qD" version="14.6.6" type="github">
   <diagram id="7rVMdZczW6YO58kJNmGc" name="第 1 页">
     <mxGraphModel dx="1186" dy="1740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-19" value="新处罚" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="88" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpGJ1PohXhWPPfaMkgI3-21" value="缺货,延期发货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="498" y="92.5" width="91" height="20" as="geometry" />
+        <mxCell id="fpGJ1PohXhWPPfaMkgI3-21" value="缺货,延期发货推处罚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="486" y="95.5" width="115" height="15.5" as="geometry" />
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="fpGJ1PohXhWPPfaMkgI3-23" target="fpGJ1PohXhWPPfaMkgI3-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,8 +144,8 @@
         <mxCell id="4nD7JM7ZIE-_De9rm8-C-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="fpGJ1PohXhWPPfaMkgI3-2" target="fpGJ1PohXhWPPfaMkgI3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4nD7JM7ZIE-_De9rm8-C-29" value="新订单延期发货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="320" width="106" height="13" as="geometry" />
+        <mxCell id="4nD7JM7ZIE-_De9rm8-C-29" value="新订单延期发货推新处罚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="320" width="144" height="13" as="geometry" />
         </mxCell>
         <mxCell id="4nD7JM7ZIE-_De9rm8-C-30" value="出库推交付" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="81.5" width="93" height="11" as="geometry" />
