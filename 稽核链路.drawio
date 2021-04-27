@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T03:53:23.629Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="hW-c4eMX4lcRsZVO6-by" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T03:54:00.346Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="s94hAq3bkvTjtKz_upsc" version="14.6.6" type="github">
   <diagram id="7rVMdZczW6YO58kJNmGc" name="第 1 页">
     <mxGraphModel dx="1186" dy="1817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="4nD7JM7ZIE-_De9rm8-C-29" value="新订单延期发货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="547" y="320" width="106" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4nD7JM7ZIE-_De9rm8-C-30" value="OFC推交付" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="81.5" width="93" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
