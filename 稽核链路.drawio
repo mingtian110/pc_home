@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T01:24:20.804Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="yaUn52fOMQrbae4_HyiG" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T01:36:56.076Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="YcWPNKCRfqCGntdFzLjf" version="14.6.6" type="github">
   <diagram id="7rVMdZczW6YO58kJNmGc" name="第 1 页">
     <mxGraphModel dx="1186" dy="1706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-2" value="订单" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="202" y="233" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpGJ1PohXhWPPfaMkgI3-4" value="支付,取消,签收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="71" y="268" width="103" height="14" as="geometry" />
+        <mxCell id="fpGJ1PohXhWPPfaMkgI3-4" value="支付,取消,用户签收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="268" width="114" height="14" as="geometry" />
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-8" value="结算" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="509" y="233" width="120" height="60" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-15" value="截单推交付" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="170" width="70" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="fpGJ1PohXhWPPfaMkgI3-16" value="缺货,发货,签收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="140" width="93" height="11" as="geometry" />
+        <mxCell id="fpGJ1PohXhWPPfaMkgI3-16" value="缺货,发货,物流签收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="235.5" y="137" width="112" height="11" as="geometry" />
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="fpGJ1PohXhWPPfaMkgI3-18" target="fpGJ1PohXhWPPfaMkgI3-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-23" value="售后" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="202" y="399" width="120" height="60" as="geometry" />
+          <mxGeometry x="202" y="376" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpGJ1PohXhWPPfaMkgI3-41" value="订单推OFC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="123" y="137" width="71" height="11" as="geometry" />
